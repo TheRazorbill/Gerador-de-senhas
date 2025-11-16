@@ -1,8 +1,7 @@
 # Gerador e Verificador de Senhas em Python
 
-![Status](https://img.shields.io/badge/versão-1.0-blue)
 
-## 📜 Sobre o Projeto
+##  Sobre o Projeto
 Este é um script de console (CLI) desenvolvido em Python que possui duas funções principais:
 1.  **Gerar senhas aleatórias** e seguras com um comprimento definido pelo usuário.
 2.  **Verificar a força de uma senha** fornecida, com base em critérios de segurança comuns.
@@ -11,7 +10,7 @@ O projeto foi criado como uma forma prática de aplicar conceitos de manipulaç�
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 - **Geração de Senhas:** Cria senhas aleatórias utilizando uma combinação de letras maiúsculas, minúsculas, números e símbolos.
 - **Verificação de Força:** Avalia se uma senha atende aos seguintes critérios para ser considerada forte:
     - ✅ Possui pelo menos uma letra minúscula.
@@ -24,7 +23,7 @@ O projeto foi criado como uma forma prática de aplicar conceitos de manipulaç�
 
 ---
 
-## 🚀 Como Usar
+##  Como Usar
 Para executar este projeto, você precisa ter o Python instalado em sua máquina.
 
 1.  Salve o código em um arquivo com a extensão `.py` (por exemplo, `gerador_senhas.py`).
@@ -38,7 +37,7 @@ Para executar este projeto, você precisa ter o Python instalado em sua máquina
 
 ---
 
-## 🛠️ Estrutura do Código
+##  Estrutura do Código
 O script é organizado em várias funções, cada uma com uma responsabilidade específica:
 
 - `faz_snh(tam)`: Responsável por criar uma única senha aleatória com o tamanho (`tam`) especificado.
@@ -49,7 +48,7 @@ O script é organizado em várias funções, cada uma com uma responsabilidade e
 
 ---
 
-## 👤 Autor
+##  Autor
 Desenvolvido por **TheRazorbill**.
 
 ![Screenshot 2025-06-15 154555](https://github.com/user-attachments/assets/15a0fd06-17f9-4392-8a6d-8e0fdbc89d11)
